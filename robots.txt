@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yuugohjeev.georgiacobrien.com/sitemap.xml
